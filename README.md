@@ -7,6 +7,10 @@
 - Budding Software Developer
 - I love to learn and contribute in any and every possible way.
 
+<a href="https://dev.to/manugupta9780">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Manu Gupta's DEV Profile" height="30" width="30">
+</a>
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![Manu's github stats](https://github-readme-stats.vercel.app/api?username=ManuGupta9780&show_icons=true&theme=radical)

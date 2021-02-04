@@ -11,6 +11,7 @@
 <a href="https://www.linkedin.com/in/manugupta9780/"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" height="30" width="30"></a>
 <a href="https://www.facebook.com/profile.php?id=100009274376415"><img src="https://github.com/aritraroy/social-icons/blob/master/facebook-icon.png?raw=true" height="30" width="30"></a>
 <a href="https://www.instagram.com/_i_am_manugupta/"><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" height="30" width="30"></a>
+<a href="https://twitter.com/Manu78426630"><img src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png?raw=true" height="30" width="30"></a>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 

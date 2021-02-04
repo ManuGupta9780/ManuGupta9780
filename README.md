@@ -7,9 +7,10 @@
 - Budding Software Developer
 - I love to learn and contribute in any and every possible way.
 
-<a href="https://dev.to/manugupta9780">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Manu Gupta's DEV Profile" height="30" width="30">
-</a>
+<a href="https://dev.to/manugupta9780"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Manu Gupta's DEV Profile" height="30" width="30"></a>
+<a href="https://www.linkedin.com/in/manugupta9780/"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" height="30" width="30"></a>
+<a href="https://www.facebook.com/profile.php?id=100009274376415"><img src="https://github.com/aritraroy/social-icons/blob/master/facebook-icon.png?raw=true" height="30" width="30"></a>
+<a href="https://www.instagram.com/_i_am_manugupta/"><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" height="30" width="30"></a>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 

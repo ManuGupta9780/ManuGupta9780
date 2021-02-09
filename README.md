@@ -6,7 +6,7 @@
 - 3rd year Undergraduate Student at IIT BHU. 
 - Budding Software Developer
 - I love to learn and contribute in any and every possible way.
-- When I am not coding, Guitar and Music are my favorites.
+- When I am not coding, Guitar and Music are my favourites.
 
 <a href="https://dev.to/manugupta9780"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Manu Gupta's DEV Profile" height="30" width="30"></a>
 <a href="https://www.linkedin.com/in/manugupta9780/"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" height="30" width="30"></a>

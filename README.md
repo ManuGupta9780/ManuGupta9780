@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" />
 
 ### I am Manu Gupta
-- 3rd year Undergraduate Student at IIT BHU. 
+- 4th year Undergraduate Student at IIT BHU. 
 - Budding Software Developer
 - I love to learn and contribute in any and every possible way.
 - When I am not coding, Guitar and Music are my favourites.
@@ -15,6 +15,7 @@
 <a href="https://twitter.com/Manu78426630"><img src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png?raw=true" height="30" width="30"></a>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![Profile Views](https://gpvc.arturio.dev/ManuGupta9780)
 
 ![Manu's github stats](https://github-readme-stats.vercel.app/api?username=ManuGupta9780&show_icons=true&theme=radical)
 
